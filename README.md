@@ -8,4 +8,14 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 19 March 2025 - To: 20 March 2025
+
+Total Time: 12 mins
+
+Java       12 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   99.86 %
+Markdown   0 secs          -------------------------   00.14 %
+```
+
 <!--END_SECTION:waka-->
