@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi <img width="35em" src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40" /> I am [Reza Arya Irhamilah!](https://github.com/ezza-mee/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rezaaryairhamilah@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rezaaryairhamilah/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ezza.mee?igsh=MTI2MW51NTZmOG03eg%3D%3D&utm_source=qr)
 
 #### ⚡ Github Stats :
 <div>
