@@ -25,12 +25,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 24 April 2025
+From: 19 March 2025 - To: 25 April 2025
 
-Total Time: 26 hrs 6 mins
+Total Time: 28 hrs 49 mins
 
-Java       26 hrs 6 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-Other      0 secs          -------------------------   00.00 %
+Java       28 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.99 %
+Other      0 secs          -------------------------   00.01 %
 Markdown   0 secs          -------------------------   00.00 %
 ```
 
