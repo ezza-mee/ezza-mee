@@ -26,13 +26,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 28 April 2025
+From: 19 March 2025 - To: 29 April 2025
 
-Total Time: 43 hrs 15 mins
+Total Time: 46 hrs 29 mins
 
-Java       43 hrs 15 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.97 %
-Other      0 secs          -------------------------   00.03 %
-Markdown   0 secs          -------------------------   00.00 %
+Java             46 hrs 3 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.02 %
+SQL              10 mins         -------------------------   00.37 %
+Bash             7 mins          -------------------------   00.26 %
+PHP              6 mins          -------------------------   00.25 %
+Other            0 secs          -------------------------   00.03 %
+Blade Template   0 secs          -------------------------   00.03 %
+INI              0 secs          -------------------------   00.01 %
+YAML             0 secs          -------------------------   00.01 %
+CSS              0 secs          -------------------------   00.01 %
+Git Config       0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
