@@ -26,12 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 06 May 2025
+From: 19 March 2025 - To: 07 May 2025
 
-Total Time: 75 hrs 11 mins
+Total Time: 76 hrs 29 mins
 
-Java             74 hrs 44 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.38 %
-SQL              10 mins         -------------------------   00.23 %
+Java             76 hrs 3 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.39 %
+SQL              10 mins         -------------------------   00.22 %
 Bash             7 mins          -------------------------   00.16 %
 PHP              6 mins          -------------------------   00.15 %
 Other            1 min           -------------------------   00.03 %
