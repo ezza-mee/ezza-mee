@@ -26,12 +26,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 19 August 2025
+From: 19 March 2025 - To: 20 August 2025
 
-Total Time: 265 hrs 23 mins
+Total Time: 274 hrs 16 mins
 
-Java             263 hrs 46 mins >>>>>>>>>>>>>>>>>>>>>>>>>   99.37 %
-Python           52 mins         -------------------------   00.33 %
+Java             272 hrs 39 mins >>>>>>>>>>>>>>>>>>>>>>>>>   99.39 %
+Python           52 mins         -------------------------   00.32 %
 JSON             15 mins         -------------------------   00.10 %
 SQL              10 mins         -------------------------   00.06 %
 Bash             7 mins          -------------------------   00.05 %
