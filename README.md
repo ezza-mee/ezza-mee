@@ -26,20 +26,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 08 December 2025
+From: 19 March 2025 - To: 10 December 2025
 
-Total Time: 275 hrs 33 mins
+Total Time: 275 hrs 44 mins
 
-Java             273 hrs 50 mins >>>>>>>>>>>>>>>>>>>>>>>>>   99.36 %
+Java             273 hrs 50 mins >>>>>>>>>>>>>>>>>>>>>>>>>   99.30 %
 Python           52 mins         -------------------------   00.32 %
 JSON             21 mins         -------------------------   00.13 %
 SQL              10 mins         -------------------------   00.06 %
-Bash             7 mins          -------------------------   00.05 %
-PHP              6 mins          -------------------------   00.04 %
-Other            3 mins          -------------------------   00.02 %
-XML              1 min           -------------------------   00.01 %
-Blade Template   0 secs          -------------------------   00.01 %
-Git Config       0 secs          -------------------------   00.00 %
+HTML             9 mins          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
