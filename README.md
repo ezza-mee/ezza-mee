@@ -26,14 +26,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 02 February 2026
+From: 19 March 2025 - To: 03 February 2026
 
-Total Time: 291 hrs
+Total Time: 296 hrs 30 mins
 
-Java             278 hrs 24 mins >>>>>>>>>>>>>>>>>>>>>>>>-   95.65 %
-HTML             9 hrs 1 min     >------------------------   03.10 %
-Python           52 mins         -------------------------   00.30 %
-JavaScript       48 mins         -------------------------   00.28 %
+Java             278 hrs 24 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.88 %
+HTML             14 hrs 14 mins  >------------------------   04.80 %
+JavaScript       1 hr 4 mins     -------------------------   00.36 %
+Python           52 mins         -------------------------   00.29 %
 CSS              37 mins         -------------------------   00.21 %
 ```
 
